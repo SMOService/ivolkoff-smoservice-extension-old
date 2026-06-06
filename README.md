@@ -1,3 +1,7 @@
+> ⚠️ **Archived — legacy / superseded, no longer maintained.** Current: [smoservice.media](https://smoservice.media) · [all repositories](https://github.com/orgs/SMOService/repositories).
+
+---
+
 # Расширение для браузера (старое) от ivolkoff для SMOSERVICE.
 
 **Расширение для браузера под SMOSERVICE** - это расширение для браузера, разработанное с использованием фреймворка Vue 2.0. Это README поможет вам начать работу над проектом.
